@@ -1,6 +1,6 @@
 # Persona Bond Patch for USCM - Core
 
-![](https://github.com/dave40k/Persona-Bond-Patch-for-USCM-Core/blob/main/About/Preview.png)
+![](https://github.com/Daria40K/Persona-Bond-Patch-for-USCM-Core/blob/main/About/Preview.png)
 
 ## Weapons Patch
 - M4A3 Service Pistol
